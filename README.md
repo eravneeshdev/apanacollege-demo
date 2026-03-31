@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first git repository
 <br>
-Author - Avaneesh YAdav
+Author - Avaneesh Yadav
